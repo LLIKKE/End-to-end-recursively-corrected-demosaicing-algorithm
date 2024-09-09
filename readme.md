@@ -92,6 +92,10 @@ LLIKKE
     <img src="figs/document.png" alt="Workflow" width="300" height="400" />
 </div>
 
+参考代码：
+1. unet参考代码github：[https://github.com/Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+2. GDN的pytorch实现：[https://github.com/d-ailin/GDN](https://github.com/d-ailin/GDN)
+
 
 
 
