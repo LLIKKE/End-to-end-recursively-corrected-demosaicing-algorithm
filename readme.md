@@ -24,6 +24,9 @@ C_N_U IE's on-campus internship project code focusing on image de-mosaicing algo
     <img src="figs/table.png" alt="image_chi/sample4.jpg" width="700" height="300" />
 </div>
 
+存在问题：
+- [ ] 由于实验平台有限，数据随机裁剪到256*256，包括测试集(固定裁剪)!!
+
 ### 项目结构说明
 
 ```
@@ -36,9 +39,6 @@ demosaicing
 ├── predict.py
 ├── test.py
 ├── train.py
-├── README.md
-├── Real Tme LPR system.py
-├── Video_LPR.py
 ├── README.md
 ├─fig
 │      workflow.png
