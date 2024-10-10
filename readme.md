@@ -83,14 +83,7 @@ demosaicing
 
 
 ### 作者
-
 LLIKKE
-
-为了防止滥用实验报告不选择公开，如果想要参考可以点个**star**，再发送邮件至 <wsdfn2024@163.com> 联系我。
-
-<div style="text-align:center;">
-    <img src="figs/document.png" alt="Workflow" width="300" height="400" />
-</div>
 
 参考代码：
 1. unet参考代码github：[https://github.com/Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
