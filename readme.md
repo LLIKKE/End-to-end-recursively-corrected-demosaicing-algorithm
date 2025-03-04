@@ -3,9 +3,9 @@
 # 端到端递进修正的去马赛克算法 
 ## End-to-end recursively corrected demosaicing algorithm
 
-C_N_U IE 的校内实习的项目代码，着重图像去马赛克算法，通过实习了解相机成像获得马赛克原因和去马赛克算法流程。
+校内实习的项目代码，着重图像去马赛克算法，通过实习了解相机成像获得马赛克原因和去马赛克算法流程。
 
-C_N_U IE's on-campus internship project code focusing on image de-mosaicing algorithms, through which we learnt about the causes of mosaic obtained from camera imaging and the demosaicing algorithm process.
+on-campus internship project code focusing on image de-mosaicing algorithms, through which we learnt about the causes of mosaic obtained from camera imaging and the demosaicing algorithm process.
 
 <!-- PROJECT LOGO -->
 <br />
